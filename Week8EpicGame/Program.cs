@@ -3,7 +3,7 @@
 //string[] heroes = {"Harry Potter", "Luke Skywalker", "Lara Croft", "Scooby-Doo"};
 //string[] villains = {"Voldemort",  "Darth Vader", "Dracula", "Joker", "Sauron"};
 
-string folderPath = @"C:\Users\smsike\Dropbox\Elektritehnika\RKE132 Programmeerimise algkursus\Wee8-Data\";
+string folderPath = @"C:\Week8-Data\";
 string heroFile = "heroes.txt";
 string villainFile = "villains.txt";
 string weaponFile = "weapons.txt";
